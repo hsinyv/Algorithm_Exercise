@@ -1,0 +1,2 @@
+F:\_FILES\Algorithm_Exercise\PAT_Practice\Debug\PAT_Practice.exe
+F:\_FILES\Algorithm_Exercise\PAT_Practice\Debug\PAT_Practice.pdb
